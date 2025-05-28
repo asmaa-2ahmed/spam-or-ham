@@ -8,6 +8,7 @@ A machine learning model that classifies SMS messages as spam or ham (non-spam) 
 
 ![Demo Screenshot](https://github.com/asmaa-2ahmed/spam-or-ham/raw/main/src/assets/image.png)
 
+
 ---
 
 ## 🔍 Overview

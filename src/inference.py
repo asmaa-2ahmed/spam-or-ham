@@ -12,13 +12,8 @@ lemmatizer = WordNetLemmatizer()
 from .config import MODEL_PATH, VECTORIZER_PATH
 
 # Load model
-# model = load(MODEL_PATH)
-# vectorizer = load(VECTORIZER_PATH)
-
-from joblib import load
-
-model = load("src/assets/models/spam_model.joblib")
-vectorizer = load("src/assets/models/bow_vectorizer.joblib")
+model = load(MODEL_PATH)
+vectorizer = load(VECTORIZER_PATH)
 
 sample = ["Congrats! You've won a free ticket"]
 vectorized = vectorizer.transform(sample)
