@@ -6,7 +6,7 @@ Certainly! Here's the updated `README.md` content with a clear note about the **
 
 A machine learning model that classifies SMS messages as spam or ham (non-spam) using Bag-of-Words (BoW) with enhanced preprocessing.
 
-![Demo Screenshot](src/assets/image.png)
+![Demo Screenshot](https://github.com/asmaa-2ahmed/spam-or-ham/raw/main/src/assets/image.png)
 
 ---
 
