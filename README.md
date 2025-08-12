@@ -185,7 +185,3 @@ View the full source code here:
 ## 📜 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you’d like to also generate a Markdown file or add badges for Python version, license, etc.
